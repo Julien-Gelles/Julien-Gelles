@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for **a study training program by January 2024.**
 
-- 👨‍💻 This GitHub account is my personal account.<br> I tend to work more on my Epitech GitHub account on a daily basis.<br> Feel free to have a look : [https://github.com/Julien-Gelles-Epitech](https://github.com/Julien-Gelles-Epitech)
+- 👨‍💻 This GitHub account is my personal account.<br>I tend to work more on the Epitech Organization Github on a daily basis.<br>I will push as much work as I can on this second Epitech account.<br>Feel free to have a look: [https://github.com/Julien-Gelles-Epitech](https://github.com/Julien-Gelles-Epitech)
 
 - 🌱 I’m currently learning **Docker and some stuffs with React**
 
