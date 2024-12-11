@@ -1,7 +1,7 @@
 
 <p align="left">
 <h1>Hi 👋, I'm Gelles Julien</h1>
-<h3>23-year-old French Epitech student. Passionate about computer science and cool things related to it.</h3>
+<h3>24-year-old French Epitech student. Passionate about computer science and cool things related to it.</h3>
 </p>
 <img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
