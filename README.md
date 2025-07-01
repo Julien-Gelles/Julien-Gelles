@@ -5,7 +5,7 @@
 </p>
 <img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
-- 👨‍💻 This GitHub account is my personal account.<br>I tend to work more on the Epitech Organization Github on a daily basis.<br>I will push as much work as I can on a second dedicated Epitech account.<br>Feel free to have a look : [Julien-Gelles-Epitech](https://github.com/Julien-Gelles-Epitech)<br>(2025 edit: too busy and Epitech projects doesnt deserve to be posted tbh oO)
+- 👨‍💻 This GitHub account is my personal account.<br>I tend to work more on the Epitech Organization Github on a daily basis.<br>I will push as much work as I can on a second dedicated Epitech account.<br>Feel free to have a look : [Julien-Gelles-Epitech](https://github.com/Julien-Gelles-Epitech)<br>**(2025 edit: too busy and Epitech projects doesnt deserve to be posted tbh oO)**
 
 - 🌱 I’m currently learning **Docker and some stuffs with React**
 
