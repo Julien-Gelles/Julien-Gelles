@@ -22,7 +22,7 @@
 - 🕹️ **[Zappy](https://github.com/Julien-Gelles/Zappy)** — trois programmes qui dialoguent en TCP : serveur en C, IA autonome des drones et client graphique en C++
 - 🌱 J'apprends l'**UI/UX design** et l'**IA** — réseaux de neurones et deep learning
 
-### 🛠️ Projets (en autre)
+### 🛠️ Projets (entre autre)
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
