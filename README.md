@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <sub>📫 <a href="mailto:julien.gelles@gmail.com">julien.gelles@gmail.com</a> · <a href="mailto:julien.gelles@epitech.eu">julien.gelles@epitech.eu</a></sub>
+  <sub>📫 <a href="mailto:julien.gelles@gmail.com">julien.gelles@gmail.com</a></sub>
 </p>
