@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong> 🖐️ En recherche d'activité</strong><br>📍 Lille / Paris<br>
-  Je touche un peu à tout, du <strong>fullstack</strong>, en passant par des <strong>langages bas niveau</strong> jusqu'à l'<strong>infra</strong>,<br> mais je reste surtout un <strong>profil orienté frontend</strong> avec des <strong>appétences en IA</strong>.
+  Je touche un peu à tout, du <strong>fullstack</strong>, en passant par des <strong>langages bas niveau</strong> jusqu'à de l'<strong>infra</strong>,<br> mais je reste surtout un <strong>profil orienté frontend</strong> avec des <strong>appétences en IA</strong>.
 </p>
 
 <p align="center">
